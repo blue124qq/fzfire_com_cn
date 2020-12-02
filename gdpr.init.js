@@ -1,0 +1,1 @@
+tarteaucitron.init({"hashtag":"#tarteaucitron","highPrivacy":false,"orientation":"bottom","adblocker":false,"showAlertSmall":true,"cookieslist":false,"removeCredit":true});tarteaucitron.user.bypass=true;
